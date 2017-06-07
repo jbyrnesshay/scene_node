@@ -1,0 +1,15 @@
+{
+  "name": "scene",
+  "version": "1.0.0",
+  "description": "a test site with some color",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "joachim byrnes-shay",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.3"
+  }
+}
